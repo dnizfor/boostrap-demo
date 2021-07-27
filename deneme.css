@@ -1,0 +1,28 @@
+#hero{ background-image: linear-gradient(rgba(0,0,0, .9), rgba(0,0,0, .9)),url('https://i.pcmag.com/imagery/roundups/38133..1594409362.jpg');
+    background-attachment:fixed;
+    background-size: cover;
+    background-position: center center ;
+   
+ 
+
+}
+#hero div{
+    height: 50vh;
+}
+#divider{
+    background-image: linear-gradient(rgba(0,0,0, .9), rgba(0,0,0, .9)),url('https://i.pcmag.com/imagery/roundups/38133..1594409362.jpg');
+    height: 200px;
+    background-size: cover;
+    background-position: center center ;
+    background-attachment:fixed;
+}
+
+#contact{ background-image: linear-gradient(rgba(0,0,0, .9), rgba(0,0,0, .9)),url('https://i.pcmag.com/imagery/roundups/38133..1594409362.jpg');
+    background-attachment:fixed;
+    background-size: cover;
+    background-position: center center ;
+    max-height: 600px;
+   
+ 
+
+}
